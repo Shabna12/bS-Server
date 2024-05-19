@@ -1,0 +1,58 @@
+{
+  "books": [
+    {
+      "book": "Book of Accidents",
+      "genere": "Horror",
+      "status": "Started",
+      "id": "1"
+    },
+    {
+      "id": "2",
+      "book": "The Haunting of Hill House",
+      "genere": "Horror",
+      "status": "Finished"
+    },
+    {
+      "id": "3",
+      "book": "The Women",
+      "genere": "Fiction",
+      "status": "Finished"
+    },
+    {
+      "id": "4",
+      "book": "Next in Line",
+      "genere": "Fiction",
+      "status": "Finished"
+    },
+    {
+      "id": "5",
+      "book": "The Little Liar",
+      "genere": "Fiction",
+      "status": "Finished"
+    },
+    {
+      "id": "6",
+      "book": "Fairy Tale",
+      "genere": "Fiction",
+      "status": "Started"
+    },
+    {
+      "id": "7",
+      "book": "The Lake House",
+      "genere": "Fiction",
+      "status": "Started"
+    },
+    {
+      "id": "8",
+      "book": "Graveyard of Lost Children",
+      "genere": "Horror",
+      "status": "Finished"
+    },
+    {
+      "id": "b477",
+      "book": "Revolution 20-20 ",
+      "genere": "Romance",
+      "status": "Started"
+    }
+  ]
+}
